@@ -12,6 +12,7 @@ public class Thanos {
         heroes.add(new Hero("Thor", 1501));
 
         // TODO 1 : Modify Hero to implements Comparable and sort by name (ascending)
+        
 
 
         System.out.println("\nOrder by name:");
